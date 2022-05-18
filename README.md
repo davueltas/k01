@@ -1,4 +1,5 @@
-# k01
+# k-01 carrete
+
 F2 Control Line large cable reel laser cut plan
 
 Use the provided archives to make your own cable reel
@@ -7,7 +8,7 @@ DIY assembly and additional material (steel wire, glue) are required
 
 The printed parts contain the assembly instructions
 
-Suggested material: 2-3mm plywood
+Suggested material: 2-3mm plywood (you might want to use 2 sets of inner rims when using 2mm) or similar
 
 ## Files provided:
 
@@ -26,4 +27,4 @@ Suggested material: 2-3mm plywood
 
 @los.circulos
 github.com/los-circulos
-#controlline #vuelocircular #plasticfree
+#controlline #vuelocircular #opensource
