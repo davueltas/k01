@@ -4,6 +4,8 @@ F2 Control Line large cable reel laser cut plan
 
 Use the provided archives to make your own cable reel
 
+See construction photos at: https://www.instagram.com/p/Cd0grB_Kx6J/
+
 DIY assembly and additional material (steel wire, glue) are required
 
 The printed parts contain the assembly instructions
