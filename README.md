@@ -26,5 +26,6 @@ Suggested material: 2-3mm plywood (you might want to use 2 sets of inner rims wh
 
 
 @los.circulos
+instagram.com/los.circulos
 github.com/los-circulos
 #controlline #vuelocircular #opensource
