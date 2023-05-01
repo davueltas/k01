@@ -10,22 +10,15 @@ DIY assembly and additional material (steel wire, glue) are required
 
 The printed parts contain the assembly instructions
 
-Suggested material: 2-3mm plywood (you might want to use 2 sets of inner rims when using 2mm) or similar
+Suggested material: 2-3mm plywood (you might want to use 2 sets of inner rims when using 2mm) or similar.
 
 ## Files provided:
 
- - carrete-15-1.1-65x100.gcode (*)
- - carrete-15-1.1-65x100x1.nc - LaserGRBL file (*)
- - carrete-15-1.1-raster.png - raster file, to be used with .gcode file
- - carrete-15-1.1.dxf - vector file
- - carrete-15-1.1.svg - vector file
+ - carrete-15-1.2.svg - vector file
+ - carrete-15-cut.svg - vector file for cutting
+ - carrete-15-raster.png - engrave right over the cut (or even better etch first). The raster contains mounting instructions, the url of this project, and some hashtags
  - LICENSE - read it!
  - README.md - this file
-
-* - these files are gcode compiled for my machine/setup and might or 
-    might not work for you directly. In that case just use the vector files
-    and compile your own format
-
 
 @los.circulos
 instagram.com/los.circulos
