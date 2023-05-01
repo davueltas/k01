@@ -14,11 +14,15 @@ Suggested material: 2-3mm plywood (you might want to use 2 sets of inner rims wh
 
 ## Files provided:
 
- - carrete-15-1.2.svg - vector file
+ - carrete-15-1.2.svg - vector file of a 15cm internal diameter spool (15 and 18 versions fit into each other)
  - carrete-15-cut.svg - vector file for cutting
  - carrete-15-raster.png - engrave right over the cut (or even better etch first). The raster contains mounting instructions, the url of this project, and some hashtags
  - carrete-15-ALT-portrait-cut.svg - alt file
  - carrete-15-ALT-portrait-raster.png - alt file
+ - carrete-18-1.2-portrait.svg - vector file of a 18cm internal diameter spool (15 and 18 versions fit into each other)
+ - carrete-18-ALT-portrait-cut.svg
+ - carrete-18-ALT-portrait-raster.png
+
  - LICENSE - read it!
  - README.md - this file
 
