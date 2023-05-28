@@ -14,21 +14,19 @@ Suggested material: 2-3mm plywood (you might want to use 2 sets of inner rims wh
 
 ## Files provided:
 
- - carrete-15-1.2.svg - vector file of a 15cm internal diameter spool (15 and 18 versions fit into each other)
- - carrete-15-cut.svg - vector file for cutting
- - carrete-15-raster.png - engrave right over the cut (or even better etch first). The raster contains mounting instructions, the url of this project, and some hashtags
- - carrete-15-ALT-portrait-cut.svg - alt file
- - carrete-15-ALT-portrait-raster.png - alt file
- - carrete-18-1.2-portrait.svg - vector file of a 18cm internal diameter spool (15 and 18 versions fit into each other)
- - carrete-18-ALT-portrait-cut.svg
- - carrete-18-ALT-portrait-raster.png
+ - carrete-12 ply 3mm.svg - cut file
+ - carrete-12 raster.png - raster file
+ - carrete-12-1.2.svg - raw vector design of a 12cm cable reel
+ - carrete-15 ply 3mm.svg - 
+ - carrete-15 raster.png - raster file
+ - carrete-15-1.2.svg - raw vector design of a 15cm cable reel
+ - carrete-18 3mm.svg - cut file
+ - carrete-18 raster.png - raster file
+ - carrete-18-1.2svg - raw vector design of a 18cm cable reel
 
  - LICENSE - read it!
  - README.md - this file
 
-### alt files
-
-Files with "ALT" in their name are the same as their original but aligned in portrait. Use these to match ply sheet grain / machine limitations as needed.
 
 @los.circulos
 instagram.com/los.circulos
